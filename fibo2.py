@@ -9,5 +9,5 @@ def printFibonacciNumbers(n):
 		next = f1 + f2 
 		f1 = f2 
 		f2 = next
-printFibonacciNumbers(10) 
+printFibonacciNumbers(5) 
 
